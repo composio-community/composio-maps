@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "composio-maps": {
+      "type": "http",
+      "url": "https://connect.composio.dev/mcp/google_maps"
+    }
+  }
+}

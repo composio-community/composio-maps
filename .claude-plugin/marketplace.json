@@ -1,0 +1,18 @@
+{
+  "name": "composio-maps",
+  "owner": {
+    "name": "Composio",
+    "url": "https://composio.dev"
+  },
+  "metadata": {
+    "description": "Composio Maps plugin for Claude, by Composio"
+  },
+  "plugins": [
+    {
+      "name": "composio-maps",
+      "source": "./",
+      "description": "Places, directions, geocoding.",
+      "homepage": "https://github.com/composio-community/composio-maps"
+    }
+  ]
+}

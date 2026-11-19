@@ -1,0 +1,19 @@
+{
+  "name": "composio-maps",
+  "displayName": "Composio Maps",
+  "version": "0.1.0",
+  "description": "Composio Maps brings Google Maps into Claude: find places by description or nearby coordinates, get opening hours, ratings and contact details, get directions with travel time by car, foot, bike or transit, and convert between addresses and coordinates.",
+  "author": {
+    "name": "Composio",
+    "url": "https://composio.dev"
+  },
+  "homepage": "https://github.com/composio-community/composio-maps",
+  "repository": "https://github.com/composio-community/composio-maps",
+  "license": "MIT",
+  "privacyPolicyUrl": "https://composio.dev/privacy",
+  "keywords": [
+    "composio",
+    "mcp",
+    "google-maps"
+  ]
+}
