@@ -11,6 +11,7 @@
   "repository": "https://github.com/composio-community/composio-maps",
   "license": "MIT",
   "privacyPolicyUrl": "https://composio.dev/privacy",
+  "documentationUrl": "https://github.com/composio-community/composio-maps#readme",
   "keywords": [
     "composio",
     "mcp",
