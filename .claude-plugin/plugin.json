@@ -10,8 +10,11 @@
   "homepage": "https://github.com/composio-community/composio-maps",
   "repository": "https://github.com/composio-community/composio-maps",
   "license": "MIT",
-  "privacyPolicyUrl": "https://composio.dev/privacy",
+  "icon": "./assets/logo.png",
   "documentationUrl": "https://github.com/composio-community/composio-maps#readme",
+  "supportUrl": "https://composio.dev/support",
+  "privacyPolicyUrl": "https://composio.dev/privacy",
+  "termsOfServiceUrl": "https://composio.dev/terms",
   "keywords": [
     "composio",
     "mcp",
